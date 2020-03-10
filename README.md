@@ -12,8 +12,9 @@ This is an introduction section
 
 ## Deployment
 
-## Another section
+## How to contribute
 
+Please fork this repository and then issue Pull Requests for review.
 ## Conclusion
 
 This is the conclusion
