@@ -17,3 +17,6 @@ This is an introduction section
 ## Conclusion
 
 This is the conclusion
+
+### Copyright
+Git.training 2020
