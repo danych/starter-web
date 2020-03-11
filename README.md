@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Added a line for rebasing example, than more changes from branch.
+Stashing example
 
 ## Purpose
 
